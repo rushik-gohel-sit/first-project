@@ -6,5 +6,6 @@ main()
 	printf("Enter two numbers: ");
 	scanf("%d %d",&a,&b);
 	printf("The product is: %d",a*b);
+	printf("\nThe sum is %d",a+b);
 	getch();
 }
